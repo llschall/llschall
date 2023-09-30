@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Arduino, and many other stuff :)
 - 🌱 I’m currently learning Kotlin and Python
 - 💞️  I plan to share my framework to ease the control of any Arduino project from Java soon :)
-- 📫 How to reach me: schall.zero@gmail.com
+- 📫 How to reach me: llschall@gmx.com
 
 <!---
 llschall/llschall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
