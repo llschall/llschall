@@ -5,7 +5,7 @@
 - 📫 How to reach me: llschall@gmx.com
 
 This is my github account dedicated to my free time projects and experimentations.
-My profesionnal account is @laurentschall
+My professional account is @laurentschall
 
 <!---
 llschall/llschall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
