@@ -4,7 +4,7 @@
 - 💞️  I plan to share my framework to ease the control of any Arduino project from Java soon :)
 - 📫 How to reach me: llschall@gmx.com
 
-This is my github account dedicated to my free time projects and experimentations.
+This is my github account dedicated to free time projects and experimentations.
 My professional account is @laurentschall
 
 <!---
