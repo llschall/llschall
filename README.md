@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llschall
 - 👀 I’m interested in Java, Arduino, and many other stuff :)
 - 🌱 I’m currently learning Kotlin and Python
-- 💞️  I plan to share my framework to ease the control of any Arduino project from Java soon :)
+- 💞️  I am working my library to control any Arduino project from a Java application.
 - 📫 How to reach me: llschall@gmx.com
 
 This is my github account dedicated to free time projects and experimentations.<br>
