@@ -8,7 +8,7 @@ This is my Github account dedicated to free time projects and experimentations.<
 My professional account is [laurentschall](https://github.com/laurentschall).
 
 
-![Overview](https://github.com/llschall/llschall/blob/main/overview.svg?raw=true)
+![Overview](https://github.com/llschall/llschall/blob/main/overview.png?raw=true)
 
 <!---
 llschall/llschall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
