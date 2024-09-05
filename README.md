@@ -7,7 +7,7 @@
 This is my Github account dedicated to free time projects and experimentations.<br>
 My professional account is [laurentschall](https://github.com/laurentschall).
 
-My main project is ![ardwloop](https://llschall.github.io/ardwloop/), the other repositories are mostly applications featuring it.
+My main project is [ardwloop](https://llschall.github.io/ardwloop), the other repositories are mostly applications featuring it.
 
 Hereafter is an overview of my repositories:
 
