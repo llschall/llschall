@@ -3,7 +3,7 @@
 - 🌱 I am working on [ardwloop](https://llschall.github.io/ardwloop), a library to control any Arduino project from a Java application.
   - [Arduino Library](https://docs.arduino.cc/libraries/ardwloop)
   - [Maven Central](https://central.sonatype.com/namespace/io.github.llschall)
-  - my other repositories are mostly small applications featuring it.
+-  🌱 My other repositories are mostly small applications featuring it.
     
 - 📫 How to reach me: llschall@gmx.com
 
